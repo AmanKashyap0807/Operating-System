@@ -23,7 +23,8 @@ First Come First Serve (FCFS) is the simplest CPU scheduling algorithm. In this 
    - Move to next process when current one finishes
 
 ## Implementation (C++)
-***Refer To main.c***
+***Refer To main.c for ideal case***
+***Refer To mainExtended.c for processes with arrival time case***
 
 ## Example
 Consider the following set of processes with their arrival and burst times:
